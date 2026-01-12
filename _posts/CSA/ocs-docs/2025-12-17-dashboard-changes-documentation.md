@@ -5,7 +5,7 @@ permalink: /docs/dashboardchanges
 ---
 
 # The dashboard.html file - issues:
-- There are currently 1980 lines of code inside the dashboard .html file
+- There are currently 1980 lines of code inside the dashboard .html file, and it continues to grow
 - The size of the file makes the dashboard file is difficult to work with, since the dashboard has six different tabs 
 - To optimize workflows and efficiency of the dashboard section on pages, the file will be split, moving code to different files
 
